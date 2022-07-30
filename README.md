@@ -12,3 +12,6 @@ See torrc file in the archive. It includes examples. Run: `start.bat`
 Please note: Tor is blocked in some countries, and you must use bridges. Only obfs4 bridges work on XP, but I don't provide obfs4proxy.exe yet.  
 XP build will not work on other Windows.  
 Please report XP bugs in my Issues.
+
+To use a Tor proxy, specify in your browser or other application:  
+Proxy: socks5 127.0.0.1, port 9050, DNS through proxy.
