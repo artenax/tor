@@ -1,5 +1,5 @@
 ## About
-Cross-compiled in Debian 11 using Mingw. Static build.  
+Cross-compiled in Ubuntu 16.04 using Mingw. Static build.  
 Libraries:
 - Zlib 1.2.8
 - OpenSSL 1.1.1q
