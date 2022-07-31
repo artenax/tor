@@ -9,7 +9,7 @@ Compatibility with Windows XP is provided by the [One Core API libraries](https:
 
 ## Usage
 See torrc file in the archive. It includes examples. Run: `start.bat`  
-Please note: Tor is blocked in some countries, and you must use bridges. Only obfs4 bridges work on XP, but I don't provide obfs4proxy.exe yet.  
+Please note: Tor is blocked in some countries, in that case use obfs4 bridges.  
 XP build will not work on other Windows.  
 Please report XP bugs in my Issues.
 
