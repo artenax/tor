@@ -17,7 +17,7 @@ To use a Tor proxy, specify in your browser or other application:
 Proxy: socks5 127.0.0.1, port 9050, DNS through proxy.
 
 ## Bugs
-Due to patching and/or One Core API the build doesn't work with the obfs4proxy pluggable transport.  
+Due to patching and/or One Core API the XP build doesn't work with the obfs4proxy pluggable transport.  
 
 If you need obfs4proxy, use the latest official Tor build for XP [0.4.4.6](https://archive.torproject.org/tor-package-archive/torbrowser/10.0.11/tor-win32-0.4.4.6.zip) from 12 Nov 2020.  
 There is also a [0.4.4.9](https://github.com/torproject/tor/releases/tag/tor-0.4.4.9) backport from 14 Jun 2021, but it is only available as source code.
